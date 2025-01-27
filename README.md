@@ -1,6 +1,6 @@
 <h1 align="center"> Sumaya here ˚₊‧✩*༻☆༺*✩‧₊˚</h1>
 <h3 align="center"> UMN Econ and CS alumna. Passionate about learning and creating</h3>
-<h3 align="center">📫 Reach me at myaaabas@gmail.com or on <a href="https://www.linkedin.com/in/sumayamoha/">LinkedIn</a></h3>
+<h3 align="center">📫 Reach me at moha1260@umn.edu or on <a href="https://www.linkedin.com/in/sumayamoha/">LinkedIn</a></h3>
 
 ###
 <p align="center">
